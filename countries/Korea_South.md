@@ -9,6 +9,6 @@ Seoul
 Korean
 
 ## interesting trivia
-
+Soju can get you druck fast.
 
 
