@@ -1,6 +1,6 @@
 ##Denmark
 ## population
-
+700000
 
 ## capital
 
