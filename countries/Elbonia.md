@@ -1,14 +1,15 @@
 ##Elbonia
 ## population
-Unknown
+Thieves.
 
 ## capital
-Unknown
+Buried.
 
 ## official language
-Unknown
+Harsh glances.
 
 ## interesting trivia
 Covered in mud.  
 Yawning steals souls.
 Can be murdered for offending someone three times.
+Chief export is French shrapnel.
